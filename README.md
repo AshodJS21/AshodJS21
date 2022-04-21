@@ -11,6 +11,7 @@ Student Developer with eight months of experience in programming. Familiar with 
 * :paintbrush: UI-UX DESIGN
 * :gear: VUE.JS
 * :closed_lock_with_key: NODE / EXPRESS.JS
+* More are comming ...
 
 
 
