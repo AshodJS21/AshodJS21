@@ -3,7 +3,10 @@
 
 Student Developer with eight months of experience in programming. Familiar with basics that everything belong in frontend and backend development. Focusing on building responsive websites and applications in addition to be secured and user- friendly
 
-Skills: HTML/ CSS/ JAVASCRIPT/ UX-HI DESIGN/ VUE.SJ/ NODE EXPRESS.JS
+##Skills: 
+HTML/ CSS/ JAVASCRIPT/ UX-HI DESIGN/ VUE.SJ/ NODE EXPRESS.JS
+* :computer: HTML/ CSS/
+* 
 
 
 
