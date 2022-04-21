@@ -1,5 +1,3 @@
-[<img src='HD-wallpaper-technology-code-programming-programmer='github' height='40'>](https://github.com/AshodJS21)  
-
 ### Hi there 👋
 #### I am Student Junior Developer
 
