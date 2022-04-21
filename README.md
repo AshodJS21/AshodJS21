@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Student Developer with nine months of experience in programming. Familliar with basics that everything belong in frontend and backend development. Focusing on building responsive websites and applications in addition to be secured and user- friendly
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshodJS21)](https://github.com/anuraghazra/github-readme-stats)
