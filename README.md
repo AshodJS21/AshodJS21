@@ -1,12 +1,14 @@
 ### Hi there 👋
 #### I am Student Junior Developer
 
-Student Developer with eight months of experience in programming. Familiar with basics that everything belong in frontend and backend development. Focusing on building responsive websites and applications in addition to be secured and user- friendly
+Student Developer with eight months of experience in programming. Familiar with basics that everything belong in frontend and backend development. Focusing on building responsive websites and applications in addition to be secured and user-friendly
 
 ##Skills: 
-HTML/ CSS/ JAVASCRIPT/ UX-HI DESIGN/ VUE.SJ/ NODE EXPRESS.JS
-* :computer: HTML/ CSS/
-* 
+* :computer: HTML-CSS
+* :wrench: JAVASCRIPT
+* :paintbrush: UI-UX DESIGN
+* :gear: VUE.JS
+* :closed_lock_with_key: NODE / EXPRESS.JS
 
 
 
