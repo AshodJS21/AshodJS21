@@ -1,4 +1,4 @@
-![../img/HD-wallpaper-technology-code-programming-programmer.jpg]()
+![/img/HD-wallpaper-technology-code-programming-programmer.jpg]()
 
 ### Hi there 👋
 #### I am Student Junior Developer
