@@ -11,7 +11,8 @@ Student Developer with eight months of experience in programming. Familiar with 
 * :paintbrush: UI-UX DESIGN
 * :gear: VUE.JS
 * :closed_lock_with_key: NODE / EXPRESS.JS
-* vue 
+* SQLite & Mango DB
+* React & Native React
 * More are comming ...
 
 
@@ -21,4 +22,4 @@ Student Developer with eight months of experience in programming. Familiar with 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshodJS21)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshodJS21&show_icons=true)  
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+ 
