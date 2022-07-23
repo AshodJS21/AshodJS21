@@ -8,6 +8,7 @@ Student Developer with eight months of experience in programming. Familiar with 
 ##Skills: 
 * :computer: HTML-CSS
 https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff
+#E34F26
 * :wrench: JAVASCRIPT
 * :paintbrush: UI-UX DESIGN
 * :gear: VUE.JS
