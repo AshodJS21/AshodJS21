@@ -6,11 +6,9 @@
 Student Developer with eight months of experience in programming. Familiar with basics that everything belong in frontend and backend development. Focusing on building responsive websites and applications in addition to be secured and user-friendly
 
 ##Skills and Tools: 
-* :computer: HTML-CSS
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  
-* :wrench: JAVASCRIPT
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * :paintbrush: UI-UX DESIGN
 * :gear: VUE.JS
 * :closed_lock_with_key: NODE / EXPRESS.JS
