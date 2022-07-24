@@ -3,7 +3,7 @@
 ### Hi there 👋
 #### I am Student Junior Developer
 
-Student Developer with eight months of experience in programming. Familiar with basics that everything belong in frontend and backend development. Focusing on building responsive websites and applications in addition to be secured and user-friendly
+Student Developer with twelf months of experience in programming. Familiar with basics that everything belong in frontend and backend development. Focusing on building responsive websites and applications in addition to be secured and user-friendly
 
 ## Language and Tools: 
  
