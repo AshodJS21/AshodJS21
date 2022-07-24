@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 #### I am Student Junior Developer
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
 Student Developer with eight months of experience in programming. Familiar with basics that everything belong in frontend and backend development. Focusing on building responsive websites and applications in addition to be secured and user-friendly
 
